@@ -1,0 +1,5 @@
+aiogram==3.4.0
+psycopg2-binary==2.9.9
+python-dateutil==2.9.0
+dateparser==1.2.0
+python-dotenv==1.0.1
