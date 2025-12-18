@@ -47,7 +47,7 @@ def load_data(json_path, conn):
     videos = []
     snapshots = []
 
-    for video in 
+    for video in data: 
         videos.append((
             video['id'],
             video['creator_id'],
